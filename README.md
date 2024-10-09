@@ -15,18 +15,36 @@ Although I was enrolled on a PhD in Bioinformatics, for a long time in the cours
 
 The project never attained that satge of downstream analysis as it encountered a major setback and was dismissed.
 
-Also, because of my shallow knowledge of data science and analysis, I could not do any work with datasets readily available online as I practically didn't know what to do or how to go about doing it, thus, I couldn't be a bioinformatician as I anticipated.
+Also, because of my 'zero' knowledge of data science and analysis, I could not do any work with datasets that are readily available online as I practically didn't know what to do or how to go about doing it, thus, I couldn't be a bioinformatician as I anticipated.
 
 ## THE AWAKENING
 
 While waiting to enrol on a new PhD program, I started to look for a job and realized that most of the jobs I desired had a connect with data analysis and as such, getting a job delayed.
 
-Note that the new PhD program will also require me to have data analysis skills, so whether 
+Note that the new PhD program will also require me to have data analysis skills, so whether I get myself the dream job or an educational placement, I need to be skilled with data analysis.
 
-
-
+In order to equip myself for the tasks ahead, I was close to paying for a data analysis course when the information about LITA-Incubator hub was circulated, and I did not hesistate to take that opportunity, I am very glad I did.
 
 ## STEP BY STEP
+
+The LITA course (data analysis) have been a tremendous blessing to my career path. The step by step and detailed teachings are outstanding. The course started with Microsoft Excel, to SQL(Structured Query Language) and then Microsoft PowerBI. Below is a flow-through of each segment of the course so far.
+- Microsoft Excel
+  1. Basics of data analysis
+  2. Excel interface and navigation
+  3. Data entry in Excel
+  4. Excel functions
+  5. Reporting with pivot tables and charts
+- SQL
+  1. Introduction to SQL
+  2. Writing SQL queries
+  3. SQL clauses
+  4. SQL operators
+  5. SQL views
+  6. SQL case when
+- Portfolio building (GitHub set-up)
+- Microsoft PowerBI
+  1. Introduction and installation
+  2. Data entry and connecting to data sources
 
 ## CURRENT STATE
 
