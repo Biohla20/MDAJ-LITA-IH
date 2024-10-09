@@ -41,7 +41,7 @@ The LITA course (data analysis) have been a tremendous blessing to my career pat
   4. SQL operators
   5. SQL views
   6. SQL case when
-- Portfolio building (GitHub set-up)
+### - Portfolio building (GitHub set-up)
 ### - Microsoft PowerBI
   1. Introduction and installation
   2. Data entry and connecting to data sources
