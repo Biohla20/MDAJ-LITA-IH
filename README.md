@@ -28,13 +28,13 @@ In order to equip myself for the tasks ahead, I was close to paying for a data a
 ## STEP BY STEP
 
 The LITA course (data analysis) have been a tremendous blessing to my career path. The step by step and detailed teachings are outstanding. The course started with Microsoft Excel, to SQL(Structured Query Language) and then Microsoft PowerBI. Below is a flow-through of each segment of the course so far.
-- Microsoft Excel
+### - Microsoft Excel
   1. Basics of data analysis
   2. Excel interface and navigation
   3. Data entry in Excel
   4. Excel functions
   5. Reporting with pivot tables and charts
-- SQL
+### - SQL
   1. Introduction to SQL
   2. Writing SQL queries
   3. SQL clauses
@@ -42,9 +42,10 @@ The LITA course (data analysis) have been a tremendous blessing to my career pat
   5. SQL views
   6. SQL case when
 - Portfolio building (GitHub set-up)
-- Microsoft PowerBI
+### - Microsoft PowerBI
   1. Introduction and installation
   2. Data entry and connecting to data sources
+  3. To be continued...
 
 ## CURRENT STATE
 
