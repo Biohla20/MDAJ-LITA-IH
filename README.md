@@ -1,2 +1,14 @@
 # MDAJ-LITA-IH
 My Data Analysis Journey - LITA - Incubator Hub
+
+# MY DATA ANALYSIS JOURNEY
+---
+## INTRODUCTION
+
+## FAILURE - A STEPPING STONE
+
+## STEP BY STEP
+
+## CURRENT STATE
+
+
