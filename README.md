@@ -45,7 +45,7 @@ The LITA course (data analysis) have been a tremendous blessing to my career pat
   4. To be continued...
 
 ## Pictorial expression of the journey
-To be added soon
+![image](https://github.com/user-attachments/assets/02cca2a6-6a90-42e7-9c86-37858a5f79a7)
 
 ## CURRENT STATE
 By the day, I am becoming very confident with the use of Excel, SQL and PowerBI. All of the things that didn't make sense to me when I took the Bioinformatics Introductory course such as Python for Biologist, R, JupyterLab, GitHub, and Galaxy now makes perfect sense.
