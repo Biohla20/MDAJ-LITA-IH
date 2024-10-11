@@ -41,12 +41,17 @@ The LITA course (data analysis) have been a tremendous blessing to my career pat
 ### - Microsoft PowerBI
   1. Introduction and installation
   2. Data entry and connecting to data sources
-  3. To be continued...
+  3. PowerBI fundamentals
+  4. To be continued...
 
 ## Pictorial expression of the journey
 To be added soon
 
 ## CURRENT STATE
-To be added soon
+By the day, I am becoming very confident with the use of Excel, SQL and PowerBI. All of the things that didn't make sense to me when I took the Bioinformatics Introductory course such as Python for Biologist, R, JupyterLab, GitHub, and Galaxy now makes perfect sense.
+
+I am hoping to improve on all tools and platforms as the days pass by and hope to become a guru data analyst and informatician soon.
+
+I am open to internship for continuous hands-on knowledge of the things I am learning. I am also open to becoming a teaching assistant for the next LITA training knowing that the more I teach it the more I have a grasp of it.
 
 
