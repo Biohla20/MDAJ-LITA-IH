@@ -42,7 +42,8 @@ The LITA course (data analysis) have been a tremendous blessing to my career pat
   1. Introduction and installation
   2. Data entry and connecting to data sources
   3. PowerBI fundamentals
-  4. To be continued...
+  4. Power query for data transformation
+  5. To be continued...
 
 ## Pictorial expression of the journey
 ![image](https://github.com/user-attachments/assets/02cca2a6-6a90-42e7-9c86-37858a5f79a7)
