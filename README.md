@@ -49,8 +49,8 @@ The LITA course (data analysis) have been a tremendous blessing to my career pat
   8. Data visualization continued
   9. To be continued...
 
-## Pictorial expression of the journey
-![image](https://github.com/user-attachments/assets/02cca2a6-6a90-42e7-9c86-37858a5f79a7)
+## Pictorial expression of the journey (Academic and LITA Course)
+![image](https://github.com/user-attachments/assets/a89067ba-1461-420e-b619-314c399223d1)
 
 ## CURRENT STATE
 By the day, I am becoming very confident with the use of Excel, SQL and PowerBI. All of the things that didn't make sense to me when I took the Bioinformatics Introductory course such as Python for Biologist, R, JupyterLab, GitHub, and Galaxy now makes perfect sense.
@@ -58,5 +58,14 @@ By the day, I am becoming very confident with the use of Excel, SQL and PowerBI.
 I am hoping to improve on all tools and platforms as the days pass by and hope to become a guru data analyst and informatician soon.
 
 I am open to internship for continuous hands-on knowledge of the things I am learning. I am also open to becoming a teaching assistant for the next LITA training knowing that the more I teach it the more I have a grasp of it.
+
+## Pictorial expression of current state 
+Understanding = The grasp of data analysis 
+
+LITA Course = The progression of data analysis course
+
+Enthusiasm = Eagerness to attend classes, finish the course well, and take over the world of data analysis
+
+![image](https://github.com/user-attachments/assets/3c7a4882-b47f-44fa-9d1c-d85c7e0b510b)
 
 
