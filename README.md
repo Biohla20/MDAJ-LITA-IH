@@ -44,7 +44,10 @@ The LITA course (data analysis) have been a tremendous blessing to my career pat
   3. PowerBI fundamentals
   4. Power query for data transformation
   5. Data analysis expression function
-  6. To be continued...
+  6. Data analysis expression function 2
+  7. PowerBI and Data visualization
+  8. Data visualization continued
+  9. To be continued...
 
 ## Pictorial expression of the journey
 ![image](https://github.com/user-attachments/assets/02cca2a6-6a90-42e7-9c86-37858a5f79a7)
